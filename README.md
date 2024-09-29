@@ -196,3 +196,6 @@ main_retrieval.py \
 ## 🎗️ Acknowledgments
 Our code is based on [EMCL](https://github.com/jpthu17/EMCL), [CLIP](https://github.com/openai/CLIP), [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip/) and [DRL](https://github.com/foolwood/DRL). We sincerely appreciate for their contributions.
 
+## Note
+"Forked version"
+
